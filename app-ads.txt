@@ -3002,3 +3002,4 @@ inmobi.com,ccbbac8e47044746baa5d273e6bd2a03,RESELLER,83e75a7ae333ca9d
 media.net,8CUO2DQ17,RESELLER
 rubiconproject.com,27957,reseller,0bfd66d529a55807
 smartadserver.com,5530,reseller
+bigo.sg, 23171996, DIRECT
